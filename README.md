@@ -5,4 +5,4 @@ This repository aims to provide data and control schemes that are shown in the p
 - 12-bus power system under Conventional Frequency Regulation (CFR). It provides input data in the ".m" file and the simulink file. The simulink file has the synchronous generators with primary and secondary frequency regulation schemes. The IBR are set up to inject a constant power.
 - 12-bus power system under Non-cooperative Game Theory-based framework.  It provides input data in the ".m" file and the simulink file.  The simulink file has the synchronous generators and IBR participating in frequency regulation jointly.
 
-If you have any question about the paper or any material of this repository, you can contact us: psernatorre[at]ucsd.edu, phidalgogonzalez[at].ucsd.edu.
+If you have any question about the paper or any material of this repository, you can contact us: psernatorre[at]ucsd.edu, phidalgogonzalez[at]ucsd.edu.
